@@ -21,3 +21,5 @@ The experiments have been done using a computer with these features:
 - Sistema Operativo: Windows 10 Pro;
 	
 For the visualization of the 3D images it's recommended to use the Vaa3D software-suite. Websites: [Vaa3D official site](http://home.penglab.com/proj/vaa3d/home/index.html) - [Vaa3D on GitHub](https://github.com/Vaa3D) .
+
+For more details on this project, visit the [wiki pages](https://github.com/pisalore/neuroGPS_testing/wiki) of NeuroGPS testing.
