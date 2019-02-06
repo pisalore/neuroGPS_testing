@@ -20,4 +20,4 @@ The experiments have been done using a computer with these features:
 - Scheda Grafica: NVIDIA GeForce GTX 1050;
 - Sistema Operativo: Windows 10 Pro;
 	
-For the visualization of the 3D images it's recommended to use the Vaa3D software-suite (websites: http://home.penglab.com/proj/vaa3d/home/index.html - https://github.com/Vaa3D).
+For the visualization of the 3D images it's recommended to use the Vaa3D software-suite (websites: [Vaa3D official site]( http://home.penglab.com/proj/vaa3d/home/index.html) - [Vaa3D on GitHub] (https://github.com/Vaa3D) .
