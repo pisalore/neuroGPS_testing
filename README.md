@@ -23,7 +23,7 @@ The experiments have been done using a computer with these features:
 For reproduce the results:
 1. Download the repository.
 2. Make sure your computer is equipped with Python 3.7.
-3. Open the project and install all the requirements.
+3. Open the project and install all the requirements indicated in _requirements.txt_.
 4. Unzip the treshold.zip file, then drag and drop the folder treshold in the folder "codice_F1.
 5. Run `F1_ORACLE_LOSO.py`
 
