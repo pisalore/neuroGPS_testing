@@ -5,7 +5,7 @@ This code repository contains all the necessary to test NeuroGPS with the F1-sco
 
 - Folder structure:
 	* files: This folder contains the original dataset. The initial 2D images of all the stacks are located in the folder named substack and there is also the corresponding original ground truth marker file. 
-	* STACKS: This folder contains the 3D original dataset, created with Fiji from 2D images (website: https://fiji.sc/). These files are those used as input in NeuroGPS software.
+	* STACKS: This folder contains the 3D original dataset, created with Fiji from 2D images (website: [Fiji](https://fiji.sc/). These files are those used as input in NeuroGPS software.
 	* codice_F1: This folder contain all the necessary to calculate F1 score. There are:
 		* gt folder: this folder contains the modified ground truth for the F1-score calculation.
 		* scripts folder: this folder contains all the scripts used to adapt the NeuroGPS output to the ground truth for the F1-score                calculation.
