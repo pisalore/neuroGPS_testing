@@ -23,8 +23,8 @@ The experiments have been done using a computer with these features:
 For reproduce the results:
 1. Download the repository.
 2. Make sure your computer is equipped with Python 3.7.
-3. Open the project and install all the requirements indicated in _requirements.txt_.
-4. Unzip the treshold.zip file, then drag and drop the folder treshold in the folder "codice_F1.
+3. Unzip the treshold.zip file, then drag and drop the folder treshold in the folder "codice_F1.
+4. Open the project and install all the requirements indicated in _requirements.txt_.
 5. Run `F1_ORACLE_LOSO.py`
 
 For the visualization of the 3D images it's recommended to use the Vaa3D software-suite. Websites: [Vaa3D official site](http://home.penglab.com/proj/vaa3d/home/index.html) - [Vaa3D on GitHub](https://github.com/Vaa3D) .
