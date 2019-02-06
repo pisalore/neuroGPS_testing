@@ -1,4 +1,4 @@
-## neuroGPS_testing
+## NeuroGPS_testing
 ### An application of NeuroGPS on light sheet microscopic images (degree thesis at UNIFI).
 
 This code repository contains all the necessary to test NeuroGPS with the F1-score metric.
