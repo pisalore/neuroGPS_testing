@@ -15,10 +15,10 @@ This code repository contains all the necessary to test NeuroGPS with the F1-sco
 
 It is also included a text file were are saved test results (RESULTS.rtf).
 The experiments have been done using a computer with these features:
-- Memoria: GB DDR4 2400MHz SDRAM, 16 GB SDRAM;-
-- Processore: IntelR©CoreTMi7 8550U/7500U Processor; 
-- Scheda Grafica: NVIDIA GeForce GTX 1050;
-- Sistema Operativo: Windows 10 Pro;
+- Memory: GB DDR4 2400MHz SDRAM, 16 GB SDRAM;-
+- Processor: IntelR©CoreTMi7 8550U/7500U Processor; 
+- Graphic card: NVIDIA GeForce GTX 1050;
+- OS: Windows 10 Pro;
 	
 For the visualization of the 3D images it's recommended to use the Vaa3D software-suite. Websites: [Vaa3D official site](http://home.penglab.com/proj/vaa3d/home/index.html) - [Vaa3D on GitHub](https://github.com/Vaa3D) .
 
