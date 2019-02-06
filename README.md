@@ -13,7 +13,7 @@ This code repository contains all the necessary to test NeuroGPS with the F1-sco
 		* F1_ORACLE_LOSO: this is the python file where the function Oracle and Leave-One-Stack-Out are implemented.
 		* All the necessary code for the implementation of F1-calculation and the process of markers file containing neurons'                        annotations.
 
-It is also included a text file were are saved test results.
+It is also included a text file were are saved test results (RESULTS.rtf).
 The experiments have been done using a computer with these features:
 - Memoria: GB DDR4 2400MHz SDRAM, 16 GB SDRAM;-
 - Processore: IntelR©CoreTMi7 8550U/7500U Processor; 
