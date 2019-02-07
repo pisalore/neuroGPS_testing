@@ -15,7 +15,7 @@ This code repository contains all the necessary to test NeuroGPS with the F1-sco
 
 It is also included a text file were are saved test results (RESULTS.rtf).
 The experiments have been done using a computer with these features:
-- Memory: GB DDR4 2400MHz SDRAM, 16 GB SDRAM;-
+- Memory: GB DDR4 2400MHz SDRAM, 16 GB SDRAM;
 - Processor: IntelR©CoreTMi7 8550U/7500U Processor; 
 - Graphic card: NVIDIA GeForce GTX 1050;
 - OS: Windows 10 Pro;
